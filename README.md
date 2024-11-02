@@ -98,7 +98,7 @@ flowchart TD
 ````
 
 ## Contoh Output Program
-![Output](output/outputkalkulator.png)
+![Output](outputkalkulator.png)
 
 
 ## Cara Kerja Program
